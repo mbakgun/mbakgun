@@ -1,4 +1,4 @@
-## Hi 👋, I'm a software engineer working in Berlin, Germany originally from the Turkey 🇹🇷
+## Hi 👋, I am a software developer based in Berlin, Germany, originally from Turkey 🇹🇷
 
 <p align="left">
   <a href="https://github.com/mbakgun?tab=followers">
@@ -13,12 +13,12 @@
 
 - ✨ Contributing to [Trendyol](https://github.com/Trendyol);
 - :fire: Interested in Android development;
-- :calendar: Looking for contributing to Kotlin based open source projects. Especially interested in [Kotlin Coroutines, Jetpack Compose]
+- :calendar: Looking for contributing to Kotlin based open source projects. Especially interested in [Kotlin Multiplatform, Jetpack Compose]
 
 #### Bio
 
 - 🏢 I'm currently working at **Trendyol GmbH**
-- ⚙️ I use daily: `.kt`, `.js`, `.sh` and `.ino`
+- ⚙️ I use daily: `.kt`, `.js`, `.sh` and `.kts`
 - 🌍 I'm mostly active within the **Kotlin Community**
 - 🌱 Learning all about **Android**, also caring security of mobile apps. 
 - 💬 Ping me about **Android**, **Kotlin**, **tinyML**, **Node.js**, **Quarkus** , **Esp 32** and **3D Print & Design**.
