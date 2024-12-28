@@ -1,4 +1,4 @@
-## Hi 👋, I am a software developer based in Berlin, Germany, originally from Turkey 🇹🇷
+"## Hi 👋, I am a software developer based in Berlin, Germany, originally from Turkey 🇹🇷
 
 <p align="left">
   <a href="https://github.com/mbakgun?tab=followers">
@@ -22,7 +22,6 @@
 - 🌍 I'm mostly active within the **Kotlin Community**
 - 🌱 Learning all about **Android**, also caring security of mobile apps. 
 - 💬 Ping me about **Android**, **Kotlin**, **tinyML**, **Node.js**, **Quarkus** , **Esp 32** and **3D Print & Design**.
-- 📫 Reach me: [twitter.com/mbakguns](https://twitter.com/mbakguns)
 
 #### Development Stuffs:
 
@@ -43,9 +42,6 @@
 #### Connect With Me
 
 <p left="center">
-<a href="https://twitter.com/mbakguns">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
 <a href="https://www.linkedin.com/in/mbakgun/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a>
