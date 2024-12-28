@@ -1,4 +1,4 @@
-"## Hi 👋, I am a software developer based in Berlin, Germany, originally from Turkey 🇹🇷
+## Hi 👋, I am a software developer based in Berlin
 
 <p align="left">
   <a href="https://github.com/mbakgun?tab=followers">
