@@ -1,4 +1,4 @@
-## Hi 👋, I am a software developer based in Berlin
+## Hi 👋, I am Mehmet Burak Akgün, a Senior Software Engineer & AI Agents based in Berlin
 
 <p align="left">
   <a href="https://github.com/mbakgun?tab=followers">
@@ -11,19 +11,21 @@
 
 #### Now
 
-- ✨ Running [WriteBreeze](https://www.writebreeze.com);
-- :fire: Interested in Android development;
-- :calendar: Looking for contributing to Kotlin based open source projects. Especially interested in [Kotlin Multiplatform, Jetpack Compose]
+- ✨ Building [WriteBreeze](https://www.writebreeze.com) — AI-powered writing and productivity tools.
+- ⚡ Working on agentic systems, RAG/DSPy, AI agents & tools at Trendyol’s Agentic Experience tribe.
+- 📈 Freelancing in automation, workflow, and Android development. Open for consulting!
+- 🏆 10+ years experience.
+- 📅 Available for Kotlin Multiplatform & Jetpack Compose open source contributions.
 
 #### Bio
 
-- 🏢 I'm currently working at **Trendyol GmbH**
-- ⚙️ I use daily: `.kt`, `.js`, `.py` 
-- 🌍 I'm mostly active within the **Kotlin Community**
-- 🌱 Learning all about **Android**, also caring security of mobile apps. 
-- 💬 Ping me about **Android**, **Kotlin**, **tinyML**, **Node.js**, **Quarkus** , **Esp 32** and **3D Print & Design**.
+- 🏢 Currently at **Trendyol GmbH**
+- ⚙️ Daily Driver: `.kt`, `.py`, `.js`, `.ts`, Node.js
+- 🌍 Active in the **Kotlin Community**; developer first mindset.
+- 🌱 Continuously learning Android, automation, security, cloud, and agentic AI.
+- 💬 Ping me about **Android**, **Kotlin**, **AI Agents**, **N8N Workflows**, **RAG**, **tinyML**, **Node.js**, **Quarkus**, **Esp32**, **3D Print & Design**, and more.
 
-#### Development Stuffs:
+#### Development Stuffs
 
 <b>⚡ Github Stats</b>
 <p float="left">
@@ -33,10 +35,8 @@
 
 #### Recent Activity
 
-<p><b> &#9749; Latest Medium Blogs</b></p>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mbakgun/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mbakgun/0" alt="Latest medium article">
-
+<p><b> ☕ Latest Medium Blogs</b></p>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mbakgun/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mbakgun/0" alt="Latest medium article"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mbakgun/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mbakgun/1" alt="Latest medium article"> </a>
 
 #### Connect With Me
@@ -47,8 +47,5 @@
 </a>
 <a href="https://medium.com/@mbakgun">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
-</a>
-<a href="mailto:burak@mbakgun.com">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
