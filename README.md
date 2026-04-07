@@ -12,7 +12,6 @@
 #### Now
 
 - 🔥 Building [n8nbuilder.dev](https://n8nbuilder.dev) — AI-powered n8n workflow builder.
-- ✨ Building [WriteBreeze](https://www.writebreeze.com) — AI-powered writing and productivity tools.
 - ⚡ Working on agentic systems, RAG/DSPy, AI agents & tools at Trendyol’s Agentic Experience tribe.
 - 📈 Freelancing in automation, workflow, and Android development. Open for consulting!
 - 🏆 10+ years experience.
