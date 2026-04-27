@@ -11,7 +11,7 @@
 
 #### Now
 
-- 🔥 Building [heym.run](https://heym.run) — Self-hosted AI workflow automation with agents, RAG, and MCP @heym
+- 🔥 Building [heym.run](https://heym.run) — Self-hosted AI workflow automation with agents, RAG, and MCP [@heym](https://github.com/heymrun/heym)
 - ⚡ Working on agentic systems, RAG/DSPy, AI agents & tools at Trendyol’s Agentic Experience tribe.
 - 📈 Freelancing in automation, workflow, and Android development. Open for consulting!
 - 🏆 10+ years experience.
