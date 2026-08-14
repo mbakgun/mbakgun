@@ -13,9 +13,7 @@
 
 - 🔥 Building [heym.run](https://heym.run) — Self-hosted AI workflow automation with agents, RAG, and MCP [@heym](https://github.com/heymrun/heym)
 - ⚡ Working on agentic systems, RAG/DSPy, AI agents & tools at Trendyol’s Agentic Experience tribe.
-- 📈 Freelancing in automation, workflow, and Android development. Open for consulting!
 - 🏆 10+ years experience.
-- 📅 Available for Kotlin Multiplatform & Jetpack Compose open source contributions.
 
 #### Bio
 
@@ -29,8 +27,8 @@
 
 <b>⚡ Github Stats</b>
 <p float="left">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mbakgun&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mbakgun&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=mbakgun&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mbakgun&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 #### Recent Activity
