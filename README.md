@@ -13,15 +13,14 @@
 
 - 🔥 Building [heym.run](https://heym.run) — Self-hosted AI workflow automation with agents, RAG, and MCP [@heym](https://github.com/heymrun/heym)
 - ⚡ Working on agentic systems, RAG/DSPy, AI agents & tools at Trendyol’s Agentic Experience tribe.
-- 🏆 10+ years experience.
 
 #### Bio
 
 - 🏢 Currently at **Trendyol GmbH**
 - ⚙️ Daily Driver: `.kt`, `.py`, `.js`, `.ts`, Node.js
 - 🌍 Active in the **Kotlin Community**; developer first mindset.
-- 🌱 Continuously learning Android, automation, security, cloud, and agentic AI.
-- 💬 Ping me about **Android**, **Kotlin**, **AI Agents**, **N8N Workflows**, **RAG**, **tinyML**, **Node.js**, **Quarkus**, **Esp32**, **3D Print & Design**, and more.
+- 🌱 Continuously learner, automation, security, cloud, and agentic AI.
+- 💬 Ping me about **AI Agents**, **HEYM**, **RAG**, **tinyML**, **Node.js**, **Android**, **Kotlin**.
 
 #### Development Stuffs
 
